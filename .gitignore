@@ -1,0 +1,6 @@
+
+node_modules/
+package-lock.json
+# 忽略使用WebStorm开发时，生成的缓存文件夹
+.idea
+*.idea
